@@ -1,6 +1,7 @@
 # GCP Assignment for CS3300
 
 Author - Gal Ovadia
+
 This is my submission for the GCP assignment. This spring boot application has two endpoints:
 
 1. `/username` - Returns my GT username (govadia3)
